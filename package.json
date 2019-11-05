@@ -227,7 +227,7 @@
     "lodash": "4.17.4",
     "minimist": "1.2.0",
     "moment": "^2.21.0",
-    "mongoose": "^4.12.3",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.12.1",
     "prop-types": "15.5.10",
     "react": "15.6.1",
